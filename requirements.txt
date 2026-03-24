@@ -1,4 +1,6 @@
 streamlit
+streamlit-folium
 geemap
 earthengine-api
 google-generativeai
+python-box<7.3.0
